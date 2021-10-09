@@ -28,7 +28,7 @@ function findPositions(arr, x) {
         while (count > 0)    {
             // If the item is not deleted, process the item
             if (arr[qPtr] != -1)    {
-                // Check if it is max no
+                // Check if it is max not
                 if (arr[qPtr] > maxNo && maxNo < x)    {
                     maxNo = arr[qPtr];
                     maxIndex = qPtr;
