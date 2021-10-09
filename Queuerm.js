@@ -10,7 +10,7 @@
 
 
 function findPositions(arr, x) {
-  //   
+  
         
  
  let result = [x];
