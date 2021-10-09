@@ -2,7 +2,9 @@
 My clean js solution that solves the Facebook Interview Question
 
 
-"Queue Removals
+"Queue Removals:
+
+
 You're given a list of n integers arr, which represent elements in a queue (in order from front to back). You're also given an integer x, and must perform x iterations of the following 3-step process:
 Pop x elements from the front of queue (or, if it contains fewer than x elements, pop all of them)
 Of the elements that were popped, find the one with the largest value (if there are multiple such elements, take the one which had been popped the earliest), and remove it
